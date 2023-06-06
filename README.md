@@ -30,7 +30,8 @@ NOTE: I didn't change some elements because everytime I did I broke the page.
 The pics of the dogs are my (annoying) dogs; Stella, Peach, Scout (Top:Bottom).
 The other two pictures were googled images.
 
-(https://github.com/C-Bolick/musical-funicular.git)
+https://c-bolick.github.io/literate-telegram/
 
 
 ![Alt text](assets/images/Screenshot%202023-06-06%20153136.png)
+
